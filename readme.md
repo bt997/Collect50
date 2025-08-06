@@ -87,7 +87,13 @@ An app to keep track of any novelty items collected from each state in the USA.
 
 ## Schema 
 
-[This section will be completed in Unit 9]
+<div>
+    <a href="https://www.loom.com/share/0ac4cb68dcf7479eae28d0da49789fd8">
+    </a>
+    <a href="https://www.loom.com/share/0ac4cb68dcf7479eae28d0da49789fd8">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0ac4cb68dcf7479eae28d0da49789fd8-adbec6ec8de93c5c-full-play.gif">
+    </a>
+  </div>
 
 ### Models
 
