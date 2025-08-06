@@ -81,6 +81,7 @@ An app to keep track of any novelty items collected from each state in the USA.
 
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![IMG_1522](https://github.com/user-attachments/assets/68797152-11e8-411b-8c66-eeaf84cc8acb)
 
 ### [BONUS] Digital Wireframes & Mockups
 
