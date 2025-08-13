@@ -89,7 +89,6 @@ An app to keep track of any novelty items collected from each state in the USA.
 
 <div>
     <a href="https://www.loom.com/share/30f55d4093b440309f22326a4bfa1880">
-
     </a>
     <a href="https://www.loom.com/share/30f55d4093b440309f22326a4bfa1880">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/30f55d4093b440309f22326a4bfa1880-712ba1bfa532aa66-full-play.gif">
