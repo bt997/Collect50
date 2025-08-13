@@ -88,19 +88,11 @@ An app to keep track of any novelty items collected from each state in the USA.
 ## Schema 
 
 <div>
-    <a href="https://www.loom.com/share/0ac4cb68dcf7479eae28d0da49789fd8">
+    <a href="https://www.loom.com/share/30f55d4093b440309f22326a4bfa1880">
+
     </a>
-    <a href="https://www.loom.com/share/0ac4cb68dcf7479eae28d0da49789fd8">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0ac4cb68dcf7479eae28d0da49789fd8-adbec6ec8de93c5c-full-play.gif">
+    <a href="https://www.loom.com/share/30f55d4093b440309f22326a4bfa1880">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/30f55d4093b440309f22326a4bfa1880-712ba1bfa532aa66-full-play.gif">
     </a>
   </div>
 
-### Models
-
-[Add table of models]
-
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
